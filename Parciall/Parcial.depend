@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1589380734 source:c:\users\fran_\desktop\parciall\main.c
+	"Parcial.h"
+
+1589981233 c:\users\fran_\desktop\parciall\parcial.h
+	"Notebook.h"
+
+1589979299 source:c:\users\fran_\desktop\parciall\parcial.c
+	"Parcial.h"
+
+1589380734 source:c:\users\fran_\desktop\asd\parciall\main.c
+	"Parcial.h"
+
+1589381629 c:\users\fran_\desktop\asd\parciall\parcial.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1589382039 source:c:\users\fran_\desktop\asd\parciall\parcial.c
+	"Parcial.h"
+
+1589914840 source:c:\users\fran_\desktop\rochapplabi-master\parciall\main.c
+	"Parcial.h"
+
+1589913107 c:\users\fran_\desktop\rochapplabi-master\parciall\parcial.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1589915538 source:c:\users\fran_\desktop\rochapplabi-master\parciall\parcial.c
+	"Parcial.h"
+
+1589978981 source:c:\users\fran_\desktop\parcial\parciall\main.c
+	"Parcial.h"
+
+1589978483 c:\users\fran_\desktop\parcial\parciall\parcial.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1589978981 source:c:\users\fran_\desktop\parcial\parciall\parcial.c
+	"Parcial.h"
+
+1589978981 source:c:\users\fran_\desktop\awd\parciall\main.c
+	"Parcial.h"
+
+1589980249 c:\users\fran_\desktop\awd\parciall\parcial.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1589979299 source:c:\users\fran_\desktop\awd\parciall\parcial.c
+	"Parcial.h"
+
+1589981598 c:\users\fran_\desktop\parciall\notebook.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Tipos.h"
+	"Marcas.h"
+
+1589981553 c:\users\fran_\desktop\parciall\tipos.h
+	"Notebook.h"
+
+1589981233 c:\users\fran_\desktop\parciall\marcas.h
+	"Notebook.h"
+
